@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Audio Player</string>
+
+    <style name="MyCustomTabTextAppearence" parent="TextAppearance.Design.Tab">
+        <item name="android:textSize">15dp</item>
+        <item name="textAllCaps">false</item>
+    </style>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

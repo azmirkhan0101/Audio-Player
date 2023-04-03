@@ -70,6 +70,7 @@ public class PlayerControlActivity extends AppCompatActivity {
             }
         });
         //PLAY SONG
+        play_button.setEnabled(false);
         play_button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
